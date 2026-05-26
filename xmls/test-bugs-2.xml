@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bugs>
+  <Bug>
+    <Title>Application crashes on startup after update</Title>
+    <Description>After the latest update, the application crashes immediately on startup without showing any error message. The issue affects all users on Windows 11.</Description>
+    <Severity>Critical</Severity>
+    <StepsToReproduce>1. Install the latest update v2.3.1
+2. Launch the application
+3. Observe immediate crash with no error dialog
+4. Check Event Viewer for crash logs</StepsToReproduce>
+  </Bug>
+  <Bug>
+    <Title>User profile picture not saving correctly</Title>
+    <Description>When a user uploads a new profile picture, the image appears to save successfully but reverts to the previous image after logging out and back in.</Description>
+    <Severity>High</Severity>
+    <StepsToReproduce>1. Log in with any account
+2. Navigate to Profile Settings
+3. Upload a new profile picture
+4. Click Save
+5. Log out and log back in
+6. Observe that the old profile picture is still displayed</StepsToReproduce>
+  </Bug>
+  <Bug>
+    <Title>Search results not filtered by date correctly</Title>
+    <Description>The date filter in the search page does not work as expected. When selecting a custom date range, results outside that range are still displayed.</Description>
+    <Severity>Medium</Severity>
+    <StepsToReproduce>1. Navigate to the Search page
+2. Enter any search keyword
+3. Set a custom date range filter (e.g. 01/01/2024 - 31/01/2024)
+4. Click Search
+5. Observe results from other dates appearing in the list</StepsToReproduce>
+  </Bug>
+  <Bug>
+    <Title>Email notifications sent twice on password reset</Title>
+    <Description>When a user requests a password reset, they receive two identical emails instead of one. This causes confusion and potential security concerns.</Description>
+    <Severity>Medium</Severity>
+    <StepsToReproduce>1. Go to the Login page
+2. Click Forgot Password
+3. Enter a valid email address
+4. Click Send Reset Link
+5. Check the inbox and observe two identical reset emails</StepsToReproduce>
+  </Bug>
+  <Bug>
+    <Title>Dark mode not applied to modal dialogs</Title>
+    <Description>When dark mode is enabled in settings, most of the application switches correctly but modal dialogs and popup windows still display with a white background.</Description>
+    <Severity>Low</Severity>
+    <StepsToReproduce>1. Go to Settings
+2. Enable Dark Mode
+3. Navigate to any page with a modal dialog
+4. Open the modal
+5. Observe the modal has a white background instead of dark</StepsToReproduce>
+  </Bug>
+</Bugs>

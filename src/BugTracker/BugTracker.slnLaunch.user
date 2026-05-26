@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BugTracker.Server\\BugTracker.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BugTracker.Client\\BugTracker.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

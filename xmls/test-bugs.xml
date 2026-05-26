@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bugs>
+  <Bug>
+    <Title>Login button unresponsive on mobile</Title>
+    <Description>The login button does not respond to tap on iOS Safari</Description>
+    <Severity>High</Severity>
+    <StepsToReproduce>1. Open app on iOS Safari 2. Enter credentials 3. Tap Login</StepsToReproduce>
+  </Bug>
+  <Bug>
+    <Title>Dashboard loads slowly</Title>
+    <Description>Dashboard takes over 10 seconds to load on first visit</Description>
+    <Severity>Medium</Severity>
+    <StepsToReproduce>1. Log in 2. Navigate to dashboard 3. Observe load time</StepsToReproduce>
+  </Bug>
+</Bugs>

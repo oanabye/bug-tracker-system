@@ -1,0 +1,118 @@
+﻿<Window x:Class="BugTracker.Client.Views.UpdateStatusWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Update Bug Status" Height="280" Width="400"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        Background="#0f172a">
+
+    <Window.Resources>
+        <Style x:Key="ActionBtn" TargetType="Button">
+            <Setter Property="Height" Value="36"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="FontWeight" Value="Medium"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                CornerRadius="16" Padding="18,0">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="97*"/>
+            <ColumnDefinition Width="303*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="54"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- HEADER -->
+        <Border Grid.Row="0" Background="#16213e"
+                BorderBrush="#1e293b" BorderThickness="0,0,0,1" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="18,0">
+                <TextBlock Text="✏️" FontSize="18" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                <TextBlock Text="Update Status" Foreground="White"
+                           FontSize="16" FontWeight="Medium" VerticalAlignment="Center"/>
+                <TextBlock Text=" — Bug" Foreground="#64748b"
+                           FontSize="16" VerticalAlignment="Center"/>
+            </StackPanel>
+        </Border>
+
+        <!-- FORM -->
+        <Grid Grid.Row="1" Margin="24,18,24,18" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="14"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="8"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- Bug title badge -->
+            <Border Grid.Row="0" Background="#1e293b" CornerRadius="12"
+                    Padding="14,10" BorderBrush="#1e3a5f" BorderThickness="1">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="🐛 " FontSize="13" VerticalAlignment="Center"/>
+                    <TextBlock x:Name="TxtBugTitle"
+                               Foreground="#e2e8f0" FontSize="13" FontWeight="Medium"
+                               TextTrimming="CharacterEllipsis"
+                               VerticalAlignment="Center"/>
+                </StackPanel>
+            </Border>
+
+            <!-- Label -->
+            <TextBlock Grid.Row="2"
+                       Text="NEW STATUS"
+                       Foreground="#475569" FontSize="10" FontWeight="Medium"
+                       Margin="2,0,0,0"/>
+
+            <!-- ComboBox -->
+            <Border Grid.Row="4" Background="#1e293b" CornerRadius="10"
+                    BorderBrush="#334155" BorderThickness="1">
+                <ComboBox x:Name="CmbStatus"
+                          Height="38" Background="Transparent"
+                          Foreground="#e2e8f0" BorderThickness="0"
+                          Padding="10,0" FontSize="13">
+                    <ComboBox.Resources>
+                        <Style TargetType="ComboBoxItem">
+                            <Setter Property="Background" Value="#1e293b"/>
+                            <Setter Property="Foreground" Value="#e2e8f0"/>
+                            <Setter Property="Padding" Value="10,6"/>
+                        </Style>
+                    </ComboBox.Resources>
+                    <ComboBoxItem Content="New"/>
+                    <ComboBoxItem Content="InProgress"/>
+                    <ComboBoxItem Content="Fixed"/>
+                    <ComboBoxItem Content="CannotReproduce"/>
+                </ComboBox>
+            </Border>
+
+            <!-- Buttons -->
+            <StackPanel Grid.Row="6" Orientation="Horizontal"
+                        HorizontalAlignment="Right">
+                <Button Content="Cancel" Width="95"
+                        Style="{StaticResource ActionBtn}"
+                        Background="#374151" Margin="0,0,10,0"
+                        Click="BtnCancel_Click"/>
+                <Button Content="✔  Update" Width="110"
+                        Style="{StaticResource ActionBtn}"
+                        Background="#d97706"
+                        Click="BtnUpdate_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

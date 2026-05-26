@@ -1,0 +1,20 @@
+﻿BugTracker.Client
+
+
+winexe
+C#
+.cs
+D:\AN 3\SEM2\PS\project-oanabye\src\BugTracker\BugTracker.Client\obj\Debug\net8.0-windows\
+BugTracker.Client
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\AN 3\SEM2\PS\project-oanabye\src\BugTracker\BugTracker.Client\App.xaml
+14521301273
+
+18-1404319901
+1992075298203
+MainWindow.xaml;Views\AdminWindow.xaml;Views\AssignBugWindow.xaml;Views\BugDetailWindow.xaml;Views\DeveloperWindow.xaml;Views\EditBugWindow.xaml;Views\LoginWindow.xaml;Views\ManageDevelopersWindow.xaml;Views\NotificationsWindow.xaml;Views\RegisterWindow.xaml;Views\ShareBugWindow.xaml;Views\SubmitBugWindow.xaml;Views\UpdatePasswordDialog.xaml;Views\UpdateStatusWindow.xaml;
+
+False
+

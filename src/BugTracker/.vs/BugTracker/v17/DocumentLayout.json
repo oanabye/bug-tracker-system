@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D953C67-FE27-4A15-BED9-7C11BCB4BE1B}|BugTracker.Client\\BugTracker.Client.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.client\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D953C67-FE27-4A15-BED9-7C11BCB4BE1B}|BugTracker.Client\\BugTracker.Client.csproj|solutionrelative:bugtracker.client\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D953C67-FE27-4A15-BED9-7C11BCB4BE1B}|BugTracker.Client\\BugTracker.Client.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.client\\views\\developerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D953C67-FE27-4A15-BED9-7C11BCB4BE1B}|BugTracker.Client\\BugTracker.Client.csproj|solutionrelative:bugtracker.client\\views\\developerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D953C67-FE27-4A15-BED9-7C11BCB4BE1B}|BugTracker.Client\\BugTracker.Client.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.client\\views\\assignbugwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D953C67-FE27-4A15-BED9-7C11BCB4BE1B}|BugTracker.Client\\BugTracker.Client.csproj|solutionrelative:bugtracker.client\\views\\assignbugwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D953C67-FE27-4A15-BED9-7C11BCB4BE1B}|BugTracker.Client\\BugTracker.Client.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.client\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D953C67-FE27-4A15-BED9-7C11BCB4BE1B}|BugTracker.Client\\BugTracker.Client.csproj|solutionrelative:bugtracker.client\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D953C67-FE27-4A15-BED9-7C11BCB4BE1B}|BugTracker.Client\\BugTracker.Client.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.client\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D953C67-FE27-4A15-BED9-7C11BCB4BE1B}|BugTracker.Client\\BugTracker.Client.csproj|solutionrelative:bugtracker.client\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\models\\bug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\models\\bug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\services\\bugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\services\\bugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\services\\ibugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\services\\ibugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\repositories\\isharerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\repositories\\isharerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\repositories\\ibugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\repositories\\ibugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\repositories\\bugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\repositories\\bugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|d:\\an 3\\sem2\\ps\\project-oanabye\\src\\bugtracker\\bugtracker.server\\models\\bugsharerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6915EC21-30B6-476B-9360-C1BDAE65E1AC}|BugTracker.Server\\BugTracker.Server.csproj|solutionrelative:bugtracker.server\\models\\bugsharerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Client\\Views\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BugTracker.Client\\Views\\AdminWindow.xaml.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Client\\Views\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "BugTracker.Client\\Views\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:44:56.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeveloperWindow.xaml",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Client\\Views\\DeveloperWindow.xaml",
+              "RelativeDocumentMoniker": "BugTracker.Client\\Views\\DeveloperWindow.xaml",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Client\\Views\\DeveloperWindow.xaml",
+              "RelativeToolTip": "BugTracker.Client\\Views\\DeveloperWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-26T14:44:42.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignBugWindow.xaml",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Client\\Views\\AssignBugWindow.xaml",
+              "RelativeDocumentMoniker": "BugTracker.Client\\Views\\AssignBugWindow.xaml",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Client\\Views\\AssignBugWindow.xaml",
+              "RelativeToolTip": "BugTracker.Client\\Views\\AssignBugWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-26T14:44:28.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Client\\Views\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "BugTracker.Client\\Views\\AdminWindow.xaml",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Client\\Views\\AdminWindow.xaml",
+              "RelativeToolTip": "BugTracker.Client\\Views\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-26T14:43:50.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Client\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "BugTracker.Client\\Services\\ApiService.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Client\\Services\\ApiService.cs",
+              "RelativeToolTip": "BugTracker.Client\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:43:07.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBugService.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Services\\IBugService.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Services\\IBugService.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Services\\IBugService.cs",
+              "RelativeToolTip": "BugTracker.Server\\Services\\IBugService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:41:12.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BugService.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Services\\BugService.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Services\\BugService.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Services\\BugService.cs",
+              "RelativeToolTip": "BugTracker.Server\\Services\\BugService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwDsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:40:37.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Services\\AuthService.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Services\\AuthService.cs",
+              "RelativeToolTip": "BugTracker.Server\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:39:55.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "BugTracker.Server\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:39:42.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IShareRequestRepository.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Repositories\\IShareRequestRepository.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Repositories\\IShareRequestRepository.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Repositories\\IShareRequestRepository.cs",
+              "RelativeToolTip": "BugTracker.Server\\Repositories\\IShareRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:39:37.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBugRepository.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Repositories\\IBugRepository.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Repositories\\IBugRepository.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Repositories\\IBugRepository.cs",
+              "RelativeToolTip": "BugTracker.Server\\Repositories\\IBugRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:39:35.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BugTracker.Server\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:39:04.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BugTracker.Server\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:38:25.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BugTracker.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:37:40.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BugRepository.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Repositories\\BugRepository.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Repositories\\BugRepository.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Repositories\\BugRepository.cs",
+              "RelativeToolTip": "BugTracker.Server\\Repositories\\BugRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:37:35.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BugShareRequest.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Models\\BugShareRequest.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Models\\BugShareRequest.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Models\\BugShareRequest.cs",
+              "RelativeToolTip": "BugTracker.Server\\Models\\BugShareRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:37:16.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bug.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Models\\Bug.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Models\\Bug.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Models\\Bug.cs",
+              "RelativeToolTip": "BugTracker.Server\\Models\\Bug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T14:37:09.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BugTracker.Server\\Models\\User.cs",
+              "ToolTip": "D:\\AN 3\\SEM2\\PS\\project-oanabye\\src\\BugTracker\\BugTracker.Server\\Models\\User.cs",
+              "RelativeToolTip": "BugTracker.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:47:55.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

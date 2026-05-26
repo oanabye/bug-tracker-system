@@ -19,13 +19,13 @@ A two-tier client-server bug tracking application built with **WPF** (client) an
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](pictures/login.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin.png)
+![Admin Dashboard](pictures/admin.png)
 
 ### Developer Dashboard
-![Developer Dashboard](screenshots/developer.png)
+![Developer Dashboard](pictures/developer.png)
 
 ---
 
